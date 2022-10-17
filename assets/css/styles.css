@@ -36,8 +36,8 @@ li {
 
 
 .main-user img {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     margin-right: 10px;
 }
 
@@ -61,7 +61,7 @@ li {
 
 /* User List */
 .user-list {
-    padding: 8px;
+    padding: 7px;
     padding-left: 15px;
 
     display: flex;
@@ -70,8 +70,8 @@ li {
 }
 
 .user-list img {
-    width: 75px;
-    height: 75px;
+    width: 65px;
+    height: 65px;
     margin-right: 10px;
 }
 
@@ -87,6 +87,7 @@ li {
     text-align: center;
     background-color: #dadada;
     width: 80%;
+    
 
 }
 
