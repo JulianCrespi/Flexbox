@@ -5,13 +5,10 @@
 
 .menu {
     /*list-style: none;*/
-    width: 20%;
-    background-color: rgb(107, 107, 107);
-    padding-left: 2px;
+    width: 15%;
+    background-color: rgb(192, 192, 192);
+    padding-left: 1px;
     padding-right: 2px;
-
-
-
 }
 
 ul {
@@ -21,6 +18,8 @@ ul {
 
 li {
     background-color: rgb(255, 255, 255);
+    margin-top: 1px;
+    margin-right: 1px;
 }
 
 .main-user {
@@ -28,7 +27,6 @@ li {
     padding: 10px;
     display: flex;
     justify-content: space-around;
-
 }
 
 .main-user-info {
@@ -54,37 +52,28 @@ li {
 
 .NuevoChat {
     background-color: rgb(255, 255, 255);
-
 }
 
 .NuevoChat p {
-    background-color: blueviolet;
+    background-color: rgb(133, 97, 170);
     text-align: center;
-
 }
 
 /* User List */
 .user-list {
-
-    padding: 5px;
+    padding: 8px;
+    padding-left: 20px;
+    
     display: flex;
-    justify-content: space-around;
-
+    justify-contxent: space-around;
+    align-items: center;
 }
-
-.user-list-info {
-    display: flex;
-    text-align: center;
-}
-
 
 .user-list img {
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     margin-right: 10px;
 }
-
-
 
 
 
@@ -97,7 +86,7 @@ li {
     align-items: center;
     text-align: center;
     background-color: #dadada;
-    width: 80%;
+    width: 85%;
 
 }
 
